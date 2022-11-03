@@ -1,0 +1,6 @@
+include<stdio.h>
+int main(void)
+{
+printf("HELLO WORLD!This is Devika");
+return 0;
+}
